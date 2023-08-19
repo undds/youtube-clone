@@ -5,6 +5,7 @@ p {
 }
 
 body{
+    /* Will be inherited */
     margin: 0;
     padding-top: 80px;
     padding-left: 100px;
