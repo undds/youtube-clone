@@ -83,3 +83,7 @@
     padding: 3px;
     font-weight: 500;
 }
+
+.video-preview{
+    text-decoration: none;
+}
